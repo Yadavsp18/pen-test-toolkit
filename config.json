@@ -1,0 +1,31 @@
+{
+    "enable_port_scans": true,
+    "enable_brute_force": true,
+    "port_scans": [
+        {
+            "target": "127.0.0.1",
+            "ports": "22-80",
+            "type": "basic"
+        },
+        {
+            "target": "127.0.0.1",
+            "ports": "443,3389,8080",
+            "type": "stealth"
+        }
+    ],
+    "brute_force": [
+        {
+            "target": "127.0.0.1",
+            "port": 22,
+            "type": "single_user",
+            "username": "root",
+            "password_list": "wordlists/passwords.txt"
+        },
+        {
+            "target": "127.0.0.1",
+            "port": 22,
+            "type": "credentials_list",
+            "credentials_list": "wordlists/credentials.txt"
+        }
+    ]
+}

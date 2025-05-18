@@ -1,0 +1,5 @@
+python-nmap==0.7.1
+paramiko==3.3.1
+argparse==1.4.0
+colorama==0.4.6
+tqdm==4.66.1
