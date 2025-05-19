@@ -142,3 +142,10 @@ The project roadmap includes several planned enhancements:
 
 The Penetration Testing Toolkit represents a powerful, comprehensive solution for security professionals seeking to evaluate and improve system security. By combining a wide range of assessment tools with an intuitive interface and robust reporting capabilities, it streamlines the penetration testing workflow and helps organizations identify and address security vulnerabilities before they can be exploited by malicious actors. Whether used by dedicated security teams, system administrators, or consultants, this toolkit provides the essential resources needed to conduct thorough security assessments in today's complex and evolving threat landscape.
 
+##OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/c3e7df35-7d6b-4d52-ac02-1dfe5b0a0258)
+
+![Image](https://github.com/user-attachments/assets/fb881473-4da4-4fe3-9d7f-4ad624de77a6)
+
+![Image](https://github.com/user-attachments/assets/a8195e34-4584-4ee1-881f-aa30060bff43)
